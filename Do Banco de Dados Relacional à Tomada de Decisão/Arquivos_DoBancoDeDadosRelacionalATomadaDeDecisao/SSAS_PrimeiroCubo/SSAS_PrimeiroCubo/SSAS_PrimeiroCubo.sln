@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "SSAS_PrimeiroCubo", "SSAS_PrimeiroCubo\SSAS_PrimeiroCubo.dwproj", "{752D0775-4B0C-4EAC-9940-DCCD062700A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{752D0775-4B0C-4EAC-9940-DCCD062700A5}.Development|Default.ActiveCfg = Development
+		{752D0775-4B0C-4EAC-9940-DCCD062700A5}.Development|Default.Build.0 = Development
+		{752D0775-4B0C-4EAC-9940-DCCD062700A5}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
